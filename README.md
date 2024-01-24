@@ -1,6 +1,6 @@
 # README #
 
-A demo web application powered by Firebase (DB + Cloud Functions), React, Node, and Stripe.
+A Web Application & Node backend powered by Firebase (Auth + DB + Cloud Functions), React, and Stripe.
 
 A website on which one can select pictures they wish printed on a canvas. Check out the demo at: https://tilesbyjoe.firebaseapp.com.
 
